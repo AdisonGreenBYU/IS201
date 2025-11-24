@@ -1,0 +1,38 @@
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+.list {
+    color:#2c3e50;
+}
+
+img {
+    height: 220px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #1abc9c;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.tableaucss {
+    height: 1000px;
+}
+
+.backtoTop {
+    display: block;
+    text-align: center;
+    margin: 20px;
+}
+
+a {
+display: block;
+    text-align: center;
+    margin: 20px;
+}
